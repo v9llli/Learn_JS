@@ -1,0 +1,61 @@
+body{ 
+    width: 5000px;
+    height: 2000px;
+}
+.nums{
+    margin-top: 250px;
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 50px;
+    height: 60px;
+    font-size: 40px;
+    text-align: center;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+    margin-right:  15px;
+    overflow: hidden;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius: 17px;
+    -o-border-radius: 17px;
+}
+
+input:focus {
+    width: 60px;
+    height: 70px;
+}
+
+button {
+    background-color: rgb(130, 166, 168);
+    font-size: 20px;
+    position: absolute;
+    left: 43.5%;
+    top: 155%;
+    color: rgb(0, 0, 0);
+    width: 70px;
+    height: 45px;
+    border-radius: 12px;
+    border-color: transparent;
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+}
+
+.two{
+    left: 1px;
+    background-color: rgb(24, 68, 71);
+
+}
+
+button:active {
+    width: 67px;
+    height: 42px;
+}

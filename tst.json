@@ -1,0 +1,11 @@
+{
+    "number": 1,
+    "string": "Elzero",
+    "Object": {
+        "South": "Abha",
+        "Center": "Riyadh"
+    }, 
+    "Array": ["Ahba", "Khamis Mushait", "Tendaha", "Ahad Rofaida"],
+    "Boolean": true,
+    "null": null 
+}
